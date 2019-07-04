@@ -1,4 +1,4 @@
-Twitter REST API Samples
+TinyFood Twitter REST API Samples
 =================
 
 Sample Django App using Twitter Sign in (OAuth) and REST APIs. This is the basis for many
